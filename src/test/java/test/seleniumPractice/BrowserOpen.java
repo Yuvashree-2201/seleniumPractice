@@ -25,7 +25,6 @@ public class BrowserOpen {
 		//System.out.println(actualName);
 		browser.get(p.getProperty("url"));
 		
-	
 		
 	
 	/*browser.manage().window().maximize();
